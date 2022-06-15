@@ -6,4 +6,4 @@ Visualizations of the metrics of each model:
 ![](https://i.imgur.com/Dy1K0OG.png)
 ![](https://i.imgur.com/8x1KLbF.png)
 
-I used 10 regressor models from the sklearn library. The green bars are from ensemble models. The top 3 for each metric were ensemble models. The Passive Aggressive model have the worst metrics. The Gradient Boosting model is the best since it has the lowest errors and highest r2 score.
+I used 10 regressor models from the sklearn library. The green bars are ensemble models. The top 3 for each metric were ensemble models. The Passive Aggressive model have the worst metrics. The Gradient Boosting model is the best since it has the lowest errors and highest r2 score.
